@@ -5,7 +5,7 @@ body {
 	font-weight: 400;
 	background-color: #e5e5e5;
 }
-.h2 {
+.news-text-column h2 {
 	position: absolute;
 	width: 471px;
 	height: 33px;
@@ -18,7 +18,7 @@ body {
 	line-height: 37px;
 	color: #1b1a17;
 }
-.p {
+.news-text-column p {
 	margin-left: 100px;
 	position: absolute;
 	width: 469px;
@@ -47,5 +47,11 @@ body {
 	font-size: 16px;
 	line-height: 169.92%;
 	text-decoration-line: underline;
-	color: #0000ee;
+}
+.news-img {
+	position: absolute;
+	width: 377px;
+	height: 459.09px;
+	left: 892px;
+	top: 40px;
 }
